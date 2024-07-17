@@ -15,3 +15,47 @@
 .bordered {
   border: 2px solid black;
 }
+
+
+/* Colors: */
+
+blue-one {
+  background-color: #003300;
+}
+
+/* ... */
+
+blue-five {
+  background-color: #00FF00;
+}
+
+green-one {
+  background-color: #000033;
+}
+
+/* ... */
+
+green-five {
+  background-color: #0000FF;
+}
+
+red-one {
+  background-color: #330000;
+}
+
+red-two {
+
+}
+
+red-three {
+
+}
+
+red-four {
+
+}
+
+red-five {
+  background-color: #FF0000;
+}
+
