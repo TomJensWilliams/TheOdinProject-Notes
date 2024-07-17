@@ -19,53 +19,53 @@
 
 /* Colors: */
 
-blue-one {
+.blue-one {
   background-color: #003300;
 }
 
-blue-two {
+.blue-two {
   background-color: #006600;
 }
 
-blue-three {
+.blue-three {
   background-color: #009900;
 }
 
-blue-four {
+.blue-four {
   background-color: #00CC00;
 }
   
-blue-five {
+.blue-five {
   background-color: #00FF00;
 }
 
-green-one {
+.green-one {
   background-color: #000033;
 }
 
 /* ... */
 
-green-five {
+.green-five {
   background-color: #0000FF;
 }
 
-red-one {
+.red-one {
   background-color: #330000;
 }
 
-red-two {
+.red-two {
 
 }
 
-red-three {
+.red-three {
 
 }
 
-red-four {
+.red-four {
 
 }
 
-red-five {
+.red-five {
   background-color: #FF0000;
 }
 
