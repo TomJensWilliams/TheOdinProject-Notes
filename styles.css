@@ -23,8 +23,18 @@ blue-one {
   background-color: #003300;
 }
 
-/* ... */
+blue-two {
+  background-color: #006600;
+}
 
+blue-three {
+  background-color: #009900;
+}
+
+blue-four {
+  background-color: #00CC00;
+}
+  
 blue-five {
   background-color: #00FF00;
 }
