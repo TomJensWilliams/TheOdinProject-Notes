@@ -20,33 +20,33 @@
 /* Colors: */
 
 .blue-one {
-  background-color: #003300;
+  background-color: #000033;
 }
 
 .blue-two {
-  background-color: #006600;
+  background-color: #000066;
 }
 
 .blue-three {
-  background-color: #009900;
+  background-color: #000099;
 }
 
 .blue-four {
-  background-color: #00CC00;
+  background-color: #0000CC;
 }
   
 .blue-five {
-  background-color: #00FF00;
+  background-color: #0000FF;
 }
 
 .green-one {
-  background-color: #000033;
+  background-color: #003300;
 }
 
 /* ... */
 
 .green-five {
-  background-color: #0000FF;
+  background-color: #00FF00;
 }
 
 .red-one {
